@@ -1,0 +1,2 @@
+python -m pip install pandas scikit-learn mlflow matplotlib
+pip install pandas scikit-learn mlflow matplotlib
