@@ -1,2 +1,4 @@
 python -m pip install pandas scikit-learn mlflow matplotlib
 pip install pandas scikit-learn mlflow matplotlib
+winget upgrade Python.Python.3.13
+python -m pip install --upgrade pip
